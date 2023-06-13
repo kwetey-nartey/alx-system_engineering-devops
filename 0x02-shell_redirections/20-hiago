@@ -1,2 +1,2 @@
 #!/bin/bash
-def remove_c
+tr -d "cC"
